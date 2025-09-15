@@ -1,26 +1,37 @@
 # 📊 Indian GDP Analysis (Power BI & Excel)
 
-## 📌 Project Overview
-This project analyzes the **Indian GDP growth trends** using data from various sources. It highlights GDP growth patterns, sectoral contributions, and overall economic performance.  
+## 📌 Project Overview  
+This project analyzes the **Indian GDP growth trends** using data from multiple sources.  
+It highlights GDP growth patterns, sectoral contributions, exports, productivity, and overall economic performance.  
 
-The project demonstrates skills in:
-- Data cleaning (Excel, CSV)
-- Data modeling & dashboarding (Power BI)
-- Advanced calculations (DAX)
-
----
-
-## 📂 Dataset
-- **Source:** World Bank, IMF, Indian Govt. portals
-- **Data Type:** Yearly GDP, Sectoral contributions
-- **Formats:** Excel & CSV
+The project demonstrates skills in:  
+- Data collection & cleaning (Excel, CSV sources)  
+- Data modeling & calculations (Power BI, DAX)  
+- Interactive dashboards & storytelling (Power BI visuals)  
 
 ---
 
-## 🔧 Tools & Technologies
-- Microsoft Excel
-- Power BI
-- DAX (Data Analysis Expressions)
+## 📂 Dataset  
+- **Source:** RBI, World Bank, IMF, Indian Govt. portals  
+- **Data File in Repo:** `RBI.csv`  
+- **Type:** Yearly GDP, exports, sectoral data, productivity metrics  
+
+---
+
+## 🔧 Tools & Technologies  
+- **Microsoft Excel** – Cleaning & preprocessing  
+- **Power BI** – Data modeling & dashboard creation  
+- **DAX** – Custom measures & KPIs  
+
+---
+
+## 📈 Key Features  
+- Year-wise GDP growth analysis  
+- Sectoral GDP contribution (Agriculture, Industry, Services)  
+- Exports and GDP correlation  
+- Productivity impact on GDP  
+- CAGR, YoY Growth using DAX  
+- Interactive filters for deeper exploration  
 
 ---
 
@@ -40,24 +51,15 @@ This visualization explores **productivity metrics**, providing insights into ho
 
 ---
 
-## 📈 Features
-- Year-wise GDP growth analysis
-- Sectoral GDP contribution (Agriculture, Industry, Services)
-- Nominal vs Real GDP comparison
-- CAGR & YoY Growth using DAX
-- Interactive filters for year & sector
+## 📌 Insights  
+- Services sector contributes the largest share to India’s GDP.  
+- Agriculture’s contribution is gradually declining.  
+- Export growth has a strong relationship with GDP growth.  
+- Productivity improvements significantly boost economic growth.  
 
 ---
 
-## 📌 Insights
-- Services sector contributes the most to India’s GDP
-- Agriculture’s contribution is declining gradually
-- GDP growth shows dips during global crises
-- Real GDP is more stable compared to Nominal GDP
-
----
-
-## 🚀 How to Use
-1. Clone the repository  
+## 🚀 How to Use  
+1. Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/indian-gdp-analysis.git
